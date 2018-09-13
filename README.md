@@ -2,5 +2,5 @@
 Hello
 
 Adit Patel
-ELctrical Engineering Student
+ELectrical Engineering Student
 UOIT
